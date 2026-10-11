@@ -1,0 +1,10 @@
+# 日志与本地文件，绝不提交
+*.log
+.agnes_key
+agnes-key.txt
+*.key
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+node_modules/
